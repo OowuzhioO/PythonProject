@@ -1,4 +1,5 @@
 import base64
+import re
 
 coupon = {
     'id': '1234',
@@ -10,6 +11,9 @@ def get_all():
     for i in range(1000, 1200):
         c_code = gen_coupon(str(i), str(int(i/2)))
         save_coupon(c_code)
+        # c_id = re.findall(r'.*/.*:(.*)\'', str(parse_coupon(c_code)))
+        # print(c_id)
+        parse_coupon(c_code)
 
 def gen_coupon(id, good):
     coupon['id'] = id
@@ -28,6 +32,7 @@ def show_coupon(c_code):
 
 def parse_coupon(c_code):
     print("parse code: ", base64.urlsafe_b64decode(c_code.encode('utf-8')))
+    # return base64.urlsafe_b64decode(c_code.encode('utf-8'))
 
 if __name__ == "__main__":
     get_all()
