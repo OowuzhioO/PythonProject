@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1f261a8-04fd-4959-a37f-3e04eea02b4d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/githubproject/ AnalysizeFile/CodeStatistics.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/githubproject/FilteredWords/filtwords.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/githubproject/FilteredWords/words.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/githubproject/GenVeriCode/GenVer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/githubproject/GenVeriCode/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/githubproject/HTML_Analysize/FindPAndLink.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab/GameAirplain/PythonShootGame" afterPath="$PROJECT_DIR$/lab/GameAirplain/PythonShootGame" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,32 +22,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AddNum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/githubproject/AddNumToPic/AddNum.py">
+      <file leaf-file-name="genver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/githubproject/GenVeriCode/genver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="210">
+              <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filtwords.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/githubproject/FilteredWords/filtwords.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Coupon.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/githubproject/GenCoupon/Coupon.py">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/githubproject/GenVeriCode/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/githubproject/GenCoupon/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="236">
+              <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,6 +90,7 @@
       <find>enemies1_down</find>
       <find>gameover</find>
       <find>game_over</find>
+      <find>type</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -98,14 +112,27 @@
         <option value="$PROJECT_DIR$/lab/GameAirplain/Thunder.py" />
         <option value="$PROJECT_DIR$/githubproject/AddNumToPic/test.py" />
         <option value="$PROJECT_DIR$/githubproject/AddNumToPic/AddNum.py" />
-        <option value="$PROJECT_DIR$/githubproject/GenCoupon/Coupon.py" />
         <option value="$PROJECT_DIR$/githubproject/GenCoupon/test.py" />
+        <option value="$PROJECT_DIR$/githubproject/GenCoupon/Coupon.py" />
+        <option value="$PROJECT_DIR$/githubproject/SaveCouponToDB/test.py" />
+        <option value="$PROJECT_DIR$/githubproject/SaveCouponToDB/SaveCoupon.py" />
+        <option value="$PROJECT_DIR$/githubproject/CountWords/CountWord.py" />
+        <option value="$PROJECT_DIR$/githubproject/Thumbnail/Thumbnail.py" />
+        <option value="$PROJECT_DIR$/githubproject/ImageResolution/Thumbnail.py" />
+        <option value="$PROJECT_DIR$/githubproject/ AnalysizeFile/CodeStatistics.py" />
+        <option value="$PROJECT_DIR$/githubproject/HTML_Analysize/FindPAndLink.py" />
+        <option value="$PROJECT_DIR$/githubproject/GenVeriCode/GenVer.py" />
+        <option value="$PROJECT_DIR$/githubproject/GenVeriCode/test.py" />
+        <option value="$PROJECT_DIR$/githubproject/GenVeriCode/genver.py" />
+        <option value="$PROJECT_DIR$/githubproject/FilteredWords/filtwords.py" />
+        <option value="$PROJECT_DIR$/githubproject/FilteredWords/words.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -137,6 +164,12 @@
               <item name="PythonProject" type="462c0819:PsiDirectoryNode" />
               <item name="githubproject" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonProject" type="462c0819:PsiDirectoryNode" />
+              <item name="githubproject" type="462c0819:PsiDirectoryNode" />
+              <item name="FilteredWords" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -144,7 +177,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/p_env/bin/python" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -163,71 +197,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test (1)">
-    <configuration name="Coupon" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.genver">
+    <configuration name="CodeStatistics" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/githubproject/GenCoupon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/githubproject/ AnalysizeFile" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/githubproject/GenCoupon/Coupon.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/githubproject/ AnalysizeFile/CodeStatistics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FindPAndLink" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab/GameAirplain/PythonShootGame" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/githubproject/HTML_Analysize" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab/GameAirplain/PythonShootGame/game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/githubproject/HTML_Analysize/FindPAndLink.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Thumbnail" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/githubproject/GenCoupon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/githubproject/ImageResolution" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/githubproject/GenCoupon/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/githubproject/ImageResolution/Thumbnail.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="genver" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/githubproject/AddNumToPic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/githubproject/GenVeriCode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/githubproject/AddNumToPic/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/githubproject/GenVeriCode/genver.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,30 +273,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab/GameAirplain" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/githubproject/GenVeriCode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonProject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab/GameAirplain/test/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/githubproject/GenVeriCode/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.game" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Coupon" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Thumbnail" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CodeStatistics" />
+      <item index="2" class="java.lang.String" itemvalue="Python.FindPAndLink" />
+      <item index="3" class="java.lang.String" itemvalue="Python.genver" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Coupon" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.game" />
+        <item index="0" class="java.lang.String" itemvalue="Python.genver" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.FindPAndLink" />
+        <item index="3" class="java.lang.String" itemvalue="Python.CodeStatistics" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Thumbnail" />
       </list>
     </recent_temporary>
   </component>
@@ -283,23 +317,23 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17777778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38470587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27764705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -313,13 +347,34 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/githubproject/HTML_Analysize/FindPAndLink.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/ImageResolution/Thumbnail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/AddNumToPic/AddNum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lab/GameAirplain/test/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -327,19 +382,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1875">
           <caret line="222" column="27" lean-forward="true" selection-start-line="222" selection-start-column="27" selection-end-line="222" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-            <element signature="e#158#441#0" expanded="false" />
-            <element signature="e#482#852#0" expanded="false" />
-            <element signature="e#894#2151#0" expanded="false" />
-            <element signature="e#3747#3910#0" expanded="false" />
-            <element signature="e#3954#4117#0" expanded="false" />
-            <element signature="e#4245#4336#0" expanded="false" />
-            <element signature="e#4373#4643#0" expanded="false" />
-            <element signature="e#4888#4996#0" expanded="false" />
-            <element signature="e#5015#5220#0" expanded="false" />
-            <element signature="e#5266#5566#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -347,23 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2235">
           <caret line="262" column="0" lean-forward="false" selection-start-line="262" selection-start-column="0" selection-end-line="268" selection-end-column="28" />
-          <folding>
-            <element signature="e#24#37#0" expanded="false" />
-            <element signature="e#199#480#0" expanded="false" />
-            <element signature="e#528#2136#0" expanded="false" />
-            <element signature="e#2181#2564#0" expanded="false" />
-            <element signature="e#2592#2610#0" expanded="false" />
-            <element signature="e#4319#4334#0" expanded="false" />
-            <element signature="e#4389#4556#0" expanded="false" />
-            <element signature="e#4614#4777#0" expanded="false" />
-            <element signature="e#4905#5036#0" expanded="false" />
-            <element signature="e#5073#5401#0" expanded="false" />
-            <element signature="e#5401#5413#0" expanded="false" />
-            <element signature="e#5722#5851#0" expanded="false" />
-            <element signature="e#5870#6128#0" expanded="false" />
-            <element signature="e#6186#6484#0" expanded="false" />
-            <element signature="e#6901#6981#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -371,19 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
           <caret line="109" column="4" lean-forward="true" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="4" />
-          <folding>
-            <element signature="e#23#36#0" expanded="false" />
-            <element signature="e#340#448#0" expanded="false" />
-            <element signature="e#476#517#0" expanded="false" />
-            <element signature="e#843#1061#0" expanded="false" />
-            <element signature="e#1102#2801#0" expanded="false" />
-            <element signature="e#2833#2904#0" expanded="false" />
-            <element signature="e#2941#3004#0" expanded="false" />
-            <element signature="e#4296#4492#0" expanded="false" />
-            <element signature="e#5595#5651#0" expanded="false" />
-            <element signature="e#5686#6007#0" expanded="false" />
-            <element signature="e#6033#6469#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -398,9 +410,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -408,19 +417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-            <element signature="e#158#441#0" expanded="false" />
-            <element signature="e#482#852#0" expanded="false" />
-            <element signature="e#894#2151#0" expanded="false" />
-            <element signature="e#3747#3910#0" expanded="false" />
-            <element signature="e#3954#4117#0" expanded="false" />
-            <element signature="e#4245#4336#0" expanded="false" />
-            <element signature="e#4373#4643#0" expanded="false" />
-            <element signature="e#4888#4996#0" expanded="false" />
-            <element signature="e#5015#5220#0" expanded="false" />
-            <element signature="e#5266#5566#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -428,19 +424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-            <element signature="e#158#441#0" expanded="false" />
-            <element signature="e#482#852#0" expanded="false" />
-            <element signature="e#894#2151#0" expanded="false" />
-            <element signature="e#3747#3910#0" expanded="false" />
-            <element signature="e#3954#4117#0" expanded="false" />
-            <element signature="e#4245#4336#0" expanded="false" />
-            <element signature="e#4373#4643#0" expanded="false" />
-            <element signature="e#4888#4996#0" expanded="false" />
-            <element signature="e#5015#5220#0" expanded="false" />
-            <element signature="e#5266#5566#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -462,19 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="101" column="34" lean-forward="false" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
-          <folding>
-            <element signature="e#23#36#0" expanded="false" />
-            <element signature="e#340#448#0" expanded="false" />
-            <element signature="e#476#517#0" expanded="false" />
-            <element signature="e#843#1061#0" expanded="false" />
-            <element signature="e#1102#2801#0" expanded="false" />
-            <element signature="e#2833#2904#0" expanded="false" />
-            <element signature="e#2941#3004#0" expanded="false" />
-            <element signature="e#4296#4492#0" expanded="false" />
-            <element signature="e#5595#5651#0" expanded="false" />
-            <element signature="e#5686#6007#0" expanded="false" />
-            <element signature="e#6033#6469#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -521,9 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -531,23 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2235">
           <caret line="262" column="0" lean-forward="false" selection-start-line="262" selection-start-column="0" selection-end-line="268" selection-end-column="28" />
-          <folding>
-            <element signature="e#24#37#0" expanded="false" />
-            <element signature="e#199#480#0" expanded="false" />
-            <element signature="e#528#2136#0" expanded="false" />
-            <element signature="e#2181#2564#0" expanded="false" />
-            <element signature="e#2592#2610#0" expanded="false" />
-            <element signature="e#4319#4334#0" expanded="false" />
-            <element signature="e#4389#4556#0" expanded="false" />
-            <element signature="e#4614#4777#0" expanded="false" />
-            <element signature="e#4905#5036#0" expanded="false" />
-            <element signature="e#5073#5401#0" expanded="false" />
-            <element signature="e#5401#5413#0" expanded="false" />
-            <element signature="e#5722#5851#0" expanded="false" />
-            <element signature="e#5870#6128#0" expanded="false" />
-            <element signature="e#6186#6484#0" expanded="false" />
-            <element signature="e#6901#6981#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -555,19 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1875">
           <caret line="222" column="27" lean-forward="false" selection-start-line="222" selection-start-column="27" selection-end-line="222" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-            <element signature="e#158#441#0" expanded="false" />
-            <element signature="e#482#852#0" expanded="false" />
-            <element signature="e#894#2151#0" expanded="false" />
-            <element signature="e#3747#3910#0" expanded="false" />
-            <element signature="e#3954#4117#0" expanded="false" />
-            <element signature="e#4245#4336#0" expanded="false" />
-            <element signature="e#4373#4643#0" expanded="false" />
-            <element signature="e#4888#4996#0" expanded="false" />
-            <element signature="e#5015#5220#0" expanded="false" />
-            <element signature="e#5266#5566#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -575,27 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="109" column="4" lean-forward="false" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="4" />
-          <folding>
-            <element signature="e#23#36#0" expanded="false" />
-            <element signature="e#340#448#0" expanded="false" />
-            <element signature="e#476#517#0" expanded="false" />
-            <element signature="e#843#1061#0" expanded="false" />
-            <element signature="e#1102#2801#0" expanded="false" />
-            <element signature="e#2833#2904#0" expanded="false" />
-            <element signature="e#2941#3004#0" expanded="false" />
-            <element signature="e#4296#4492#0" expanded="false" />
-            <element signature="e#5595#5651#0" expanded="false" />
-            <element signature="e#5686#6007#0" expanded="false" />
-            <element signature="e#6033#6469#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/githubproject/AddNumToPic/AddNum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -603,15 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/githubproject/GenCoupon/Coupon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -619,6 +526,140 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/sqlalchemy/dialects/mysql/mysqlconnector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1858">
+          <caret line="197" column="40" lean-forward="false" selection-start-line="197" selection-start-column="40" selection-end-line="197" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/SaveCouponToDB/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/SaveCouponToDB/coupon.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="1792" column="19" lean-forward="true" selection-start-line="1792" selection-start-column="19" selection-end-line="1792" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/GenCoupon/coupon.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32199">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/Thumbnail/Thumbnail.py" />
+    <entry file="file://$PROJECT_DIR$/githubproject/ AnalysizeFile/CodeStatistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="40" column="77" lean-forward="false" selection-start-line="40" selection-start-column="77" selection-end-line="40" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/SaveCouponToDB/SaveCoupon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/HTML_Analysize/FindPAndLink.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/CountWords/subtitle.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/AddNumToPic/AddNum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/GenCoupon/Coupon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/CountWords/CountWord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/ImageResolution/Thumbnail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/GenVeriCode/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/GenVeriCode/code.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/GenVeriCode/genver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/FilteredWords/words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubproject/FilteredWords/filtwords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
